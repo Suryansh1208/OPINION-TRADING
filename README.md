@@ -20,7 +20,7 @@ Opinion Trading is an innovative online trading platform designed to provide use
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/opinion-trading.git`
+1. Clone the repository: `git clone https://github.com/yourusername/opinion-trading.git](https://github.com/Suryansh1208/OPINION-TRADING.git`
 2. Install dependencies: `npm install`
 3. Configure environment variables (if applicable).
 4. Run the application: `npm start`
